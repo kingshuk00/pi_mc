@@ -1,5 +1,5 @@
 /*
-  Copyright <suckmycode@gmail.com>.
+  Copyright Kingshuk.
   This file is part of Monte-Carlo example to find value of Pi.
   This is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
